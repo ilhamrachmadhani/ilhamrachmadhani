@@ -1,5 +1,6 @@
 # 💫 About Me:
-Mahasiswa semester 6 Sistem Informasi dengan pengalaman dalam pengembangan antarmuka web responsif menggunakan HTML, CSS, JavaScript, dan Tailwind CSS. Berpengalaman mengembangkan situs web berbasis Joomla dan menciptakan aplikasi berbasis Android dengan desain UI/UX modern. Lulusan Bangkit 2024 untuk Android Development dengan proyek yang berorientasi pada peningkatan pengalaman pengguna.
+
+Halo! Saya Ilham, mahasiswa Sistem Informasi yang passionate di bidang Android Development dan Frontend Development. Sebagai lulusan Bangkit Academy 2024, saya mengembangkan aplikasi NutriScan dengan Machine Learning yang meningkatkan awareness nutrisi pengguna hingga 60%. Memiliki pengalaman sebagai Asisten Dosen PBO di Universitas Bakrie, membimbing 60+ mahasiswa dalam konsep Object-Oriented Programming. Menguasai Kotlin, JavaScript, React JS, TensorFlow Lite, dan berbagai tools development modern. Selalu terbuka untuk opportunity baru dalam Android Development, Frontend Development, atau implementasi Machine Learning. Let's connect! 🚀
 
 
 ## 🌐 Socials:
